@@ -57,6 +57,7 @@ aside {
 }
 
 body {
+  background-color: #ffd6ef;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -90,7 +91,7 @@ h1 {
 }
 
 #masthead {
-  border-bottom: 1px solid #dddddd;
+  border-bottom: 1px solid #dbffd6;
   text-align: right;
 }
 
