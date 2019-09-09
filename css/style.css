@@ -101,7 +101,7 @@ h1 {
 }
 
 header {
-  border-bottom: 3px solid #000;
+  border-bottom: 3px solid #dbffd6;
   margin-bottom: 1em;
 }
 
@@ -115,12 +115,12 @@ footer {
 }
 
 p.footer {
-    color: #bbbbbb;
+    color: #dbffd6;
     font-size: 11px;
   }
 
 .item {
-  border-bottom: 1px solid #dddddd;
+  border-bottom: 1px solid #dbffd6;
   margin-bottom: 2em;
   padding-bottom: 2em;
 }
@@ -136,13 +136,13 @@ p.footer {
 
 .item p.date {
   margin: 0;
-  color: #bbbbbb;
+  color: #dbffd6;
   font-size: 12px;
   text-transform: uppercase;
 }
 
 .bio h3 {
-  border-top: 1px solid #dddddd;
+  border-top: 1px solid #dbffd6;
   margin-top: 1em;
   padding-top: 1em;
 }
